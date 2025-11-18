@@ -16,8 +16,9 @@ Repository ini berisi Postman Collection lengkap dengan:
 └── README.md
 
 TOOLS YANG HARUS DIPERSIAPKAN 
-✅ 1. Install NodeJS
 
+
+✅ 1. Install NodeJS
 Untuk bisa menjalankan Newman (Postman CLI Runner), Newman berjalan di Node.js, jadi harus install Node.js dulu.
 - Download dari situs resmi: https://nodejs.org
 - Pilih: LTS version (recommended)
