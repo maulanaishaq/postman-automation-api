@@ -15,8 +15,7 @@ Repository ini berisi Postman Collection lengkap dengan:
 │ └── example.jpg
 └── README.md
 
-TOOLS YANG HARUS DIPERSIAPKAN 
-
+## TOOLS YANG HARUS DIPERSIAPKAN 
 
 ✅ 1. Install NodeJS
 Untuk bisa menjalankan Newman (Postman CLI Runner), Newman berjalan di Node.js, jadi harus install Node.js dulu.
@@ -35,10 +34,8 @@ Untuk bisa menjalankan Newman (Postman CLI Runner), Newman berjalan di Node.js, 
 ✓ Newman sudah terinstall
 
 
+TESTING
 
-
-
-MELAKUKAN TESTING
 
 1. Jalankan API Testing dengan Newman
 - Lakukan perintah berikut di cmd:  newman run collection.json -e env.json
