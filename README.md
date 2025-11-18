@@ -9,11 +9,11 @@ Repository ini berisi Postman Collection lengkap dengan:
 ---
 
 ## 📁 Project Structure
-├── collection.json
-├── env.json
-├── images/
-│ └── example.jpg
-└── README.md
+├────────────────  collection.json
+├────────────────  env.json
+├────────────────  images/
+│ └──────── example.jpg
+└────────────────── README.md
 
 ## 🛠️ TOOLS YANG HARUS DIPERSIAPKAN 
 
