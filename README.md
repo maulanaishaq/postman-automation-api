@@ -35,6 +35,8 @@ Untuk bisa menjalankan Newman (Postman CLI Runner), Newman berjalan di Node.js, 
 
 
 
+
+
 MELAKUKAN TESTING
 
 1. Jalankan API Testing dengan Newman
